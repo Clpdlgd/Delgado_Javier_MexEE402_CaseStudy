@@ -8,7 +8,7 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Surname, First Name | | |
+| Javier, Kim Ivan | | |
 | Delgado, Clifford Rhey | 22-05989 | MEXE - 4103 |
 
 ## Notebook links
