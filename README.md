@@ -9,7 +9,7 @@ Batangas State University, Alangilan Campus
 | Name | Student Number | Section |
 |---|---|---|
 | Surname, First Name | | |
-| Surname, First Name | | |
+| Delgado, Clifford Rhey | 22-05989 | MEXE - 4103 |
 
 ## Notebook links
 
