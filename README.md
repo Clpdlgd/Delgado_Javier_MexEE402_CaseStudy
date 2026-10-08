@@ -25,9 +25,6 @@ Batangas State University, Alangilan Campus
 
 ## What we learned
 
-One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
-you and what surprised you. Not what the library does, but what you understood.
-
 #### CHAPTER 1_2_3
 
 This chapter taught me that raw data is almost never ready to use. I finally understood that cleaning is not just “fixing mistakes” but deciding what information is actually useful. What surprised me was how much a single column like Rank could quietly mess things up even though it looked important at first.
