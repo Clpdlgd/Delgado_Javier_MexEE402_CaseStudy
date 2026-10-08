@@ -20,7 +20,7 @@ Batangas State University, Alangilan Campus
 | Ch5 | [link]() | [Ch5_Collab](https://colab.research.google.com/drive/1z4X_GhpbFY4Yq5Ab3GbbA5XKKNvD3ln4?usp=drive_link) |
 | Ch6 | [Dealing with outliers](https://colab.research.google.com/drive/19CsWIEosqFsNR1mbMvHjfhE49Ku3z3h8?usp=sharing) | [link]() |
 | Ch7 | [Feature Selection](https://colab.research.google.com/drive/19NtSVNxichdyE5jYDYOYamNVKmzeFr_k?usp=sharing) | [link]() |
-| Ch8 | [link]() | [link]() |
+| Ch8 | [Constructing a Preprocessing Pipeline](https://colab.research.google.com/drive/1hLlKJ2xjxH5CCNC5InxjSGGaAikmvqdT?usp=sharing) | [link]() |
 | Ch9 | [link]() | [link]() |
 
 ## What we learned
