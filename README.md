@@ -13,7 +13,7 @@ Batangas State University, Alangilan Campus
 
 ## Notebook links
 
-| Chapter | Member 1 | Delgado, Clifford Rhey |
+| Chapter | Javier, Kim Ivan | Delgado, Clifford Rhey |
 |---|---|---|
 | Ch1_2_3 | [link]() | [Ch1_2_3_Collab](https://colab.research.google.com/drive/14aqgsxow75-BFjWPJoF8NABdo5TlXAjP?usp=drive_link#scrollTo=0XpkrsEz8gCQ) |
 | Ch4 | [link]() | [Ch4_Collab](https://colab.research.google.com/drive/1-MZKjrRcKHC4EKrwICXZTHo51luPhzfK?usp=drive_link) |
@@ -21,7 +21,7 @@ Batangas State University, Alangilan Campus
 | Ch6 | [Dealing with outliers](https://colab.research.google.com/drive/19CsWIEosqFsNR1mbMvHjfhE49Ku3z3h8?usp=sharing) | [link]() |
 | Ch7 | [Feature Selection](https://colab.research.google.com/drive/19NtSVNxichdyE5jYDYOYamNVKmzeFr_k?usp=sharing) | [link]() |
 | Ch8 | [Constructing a Preprocessing Pipeline](https://colab.research.google.com/drive/1hLlKJ2xjxH5CCNC5InxjSGGaAikmvqdT?usp=sharing) | [link]() |
-| Ch9 | [link]() | [link]() |
+| Ch9 | [Real-World Application: Data Preprocessing](https://colab.research.google.com/drive/18X9cI27vnHStvXqV9T0l-PMHOomjrEny?usp=sharing) | [link]() |
 
 ## What we learned
 
