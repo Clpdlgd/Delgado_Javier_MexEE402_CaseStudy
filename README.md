@@ -15,13 +15,13 @@ Batangas State University, Alangilan Campus
 
 | Chapter | Javier, Kim Ivan | Delgado, Clifford Rhey |
 |---|---|---|
-| Ch1_2_3 | [link]() | [Ch1_2_3_Collab](https://colab.research.google.com/drive/14aqgsxow75-BFjWPJoF8NABdo5TlXAjP?usp=drive_link#scrollTo=0XpkrsEz8gCQ) |
-| Ch4 | [link]() | [Ch4_Collab](https://colab.research.google.com/drive/1-MZKjrRcKHC4EKrwICXZTHo51luPhzfK?usp=drive_link) |
-| Ch5 | [link]() | [Ch5_Collab](https://colab.research.google.com/drive/1z4X_GhpbFY4Yq5Ab3GbbA5XKKNvD3ln4?usp=drive_link) |
-| Ch6 | [Dealing with outliers](https://colab.research.google.com/drive/19CsWIEosqFsNR1mbMvHjfhE49Ku3z3h8?usp=sharing) | [link]() |
-| Ch7 | [Feature Selection](https://colab.research.google.com/drive/19NtSVNxichdyE5jYDYOYamNVKmzeFr_k?usp=sharing) | [link]() |
-| Ch8 | [Constructing a Preprocessing Pipeline](https://colab.research.google.com/drive/1hLlKJ2xjxH5CCNC5InxjSGGaAikmvqdT?usp=sharing) | [link]() |
-| Ch9 | [Real-World Application: Data Preprocessing](https://colab.research.google.com/drive/18X9cI27vnHStvXqV9T0l-PMHOomjrEny?usp=sharing) | [link]() |
+| Ch1_2_3 | [link]() | [Ch1_2_3_Javier_Delgado](https://colab.research.google.com/drive/14aqgsxow75-BFjWPJoF8NABdo5TlXAjP?usp=drive_link#scrollTo=0XpkrsEz8gCQ) |
+| Ch4 | [link]() | [Ch4_Javier_Delgado](https://colab.research.google.com/drive/1-MZKjrRcKHC4EKrwICXZTHo51luPhzfK?usp=drive_link) |
+| Ch5 | [link]() | [Ch5_Javier_Delgado](https://colab.research.google.com/drive/1z4X_GhpbFY4Yq5Ab3GbbA5XKKNvD3ln4?usp=drive_link) |
+| Ch6 | [Ch6_Javier_Delgado](https://colab.research.google.com/drive/19CsWIEosqFsNR1mbMvHjfhE49Ku3z3h8?usp=sharing) | [link]() |
+| Ch7 | [Ch7_Javier_Delgado](https://colab.research.google.com/drive/19NtSVNxichdyE5jYDYOYamNVKmzeFr_k?usp=sharing) | [link]() |
+| Ch8 | [Ch8_Javier_Delgado](https://colab.research.google.com/drive/1hLlKJ2xjxH5CCNC5InxjSGGaAikmvqdT?usp=sharing) | [link]() |
+| Ch9 | [Ch9_Javier_Delgado](https://colab.research.google.com/drive/18X9cI27vnHStvXqV9T0l-PMHOomjrEny?usp=sharing) | [link]() |
 
 ## What we learned
 
