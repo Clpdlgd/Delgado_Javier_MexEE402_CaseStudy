@@ -28,6 +28,30 @@ Batangas State University, Alangilan Campus
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
 
+#### CHAPTER 1_2_3
+
+#### CHAPTER 4
+
+#### CHAPTER 5
+
+#### CHAPTER 6
+
+This chapter “Dealing with Outliers” taught me that outliers are data points that are very different from most of the values and can affect the results of data analysis. I learned how the Z-score and IQR methods can be used to identify these unusual values and why they need to be checked before analyzing or building a model. What surprised me was that even one extreme value can skew the results and lead to incorrect interpretations, so handling outliers is important for getting more reliable results.
+
+#### CHAPTER 7
+
+This chapter “Feature Selection” taught me that correlation helps determine how variables are related and can help identify which features are useful for analysis or prediction. I learned that correlation can be positive, negative, or zero, with values ranging from -1 to 1. What surprised me was that a high correlation shows that two variables move together, but it does not necessarily mean that one variable causes the other.
+
+#### CHAPTER 8
+
+This chapter “Constructing a Preprocessing Pipeline” taught me that a pipeline organizes different data preprocessing steps into one automatic and sequential process. I understood that it can make data preparation more efficient, consistent, and less prone to errors, especially when working with datasets like Titanic. What surprised me was how a pipeline can handle several preprocessing tasks together instead of doing each step manually.
+
+#### CHAPTER 9
+
+This chapter “Real-World Application: Data Preprocessing” taught me how to apply different preprocessing techniques to a real dataset like the Titanic dataset. I learned that data needs to be cleaned, transformed, reduced, discretized, and encoded before it can be properly used for analysis or machine learning. What surprised me was that preprocessing is not always a one-time process because some steps may need to be revisited and adjusted depending on the data.
+
+
+
 ## Errors we found
 
 List any mistake you found in the original notebooks, and the correct version.
