@@ -30,9 +30,15 @@ you and what surprised you. Not what the library does, but what you understood.
 
 #### CHAPTER 1_2_3
 
+This chapter taught me that raw data is almost never ready to use. I finally understood that cleaning is not just “fixing mistakes” but deciding what information is actually useful. What surprised me was how much a single column like Rank could quietly mess things up even though it looked important at first.
+
 #### CHAPTER 4
 
+I learned that creating new features can reveal relationships that the original columns hide. The idea of combining variables to make something more meaningful finally clicked. What surprised me was how something as simple as dividing two numbers could give a clearer story than looking at the raw values alone
+
 #### CHAPTER 5
+
+This chapter showed me that numbers can lie just by being bigger. I understood that models don’t automatically know which features matter more, they just react to the size of the numbers. What surprised me was realizing that without scaling, a model could completely ignore an important variable simply because its values were smaller.
 
 #### CHAPTER 6
 
