@@ -65,6 +65,8 @@ There are real ones in there. Finding them earns points.
 Say whether you used an AI tool, and what for. This is not a penalty.
 Hiding it is.
 
+We used AI because we are not familiar with some concepts and Python codes in data preprocessing. For example, I needed help understanding how the Z-score and IQR methods identify outliers, how correlation measures the relationship between variables, and how a preprocessing pipeline combines multiple steps. Through AI, we are able to understand what unfamiliar code does, why it is used, and how it helps prepare data for machine learning.
+
 ## References
 
 McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
