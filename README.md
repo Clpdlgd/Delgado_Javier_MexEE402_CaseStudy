@@ -80,8 +80,7 @@ CORRECT VERSION: The Z-score of 100 is approximately 2.61501265, which is within
 
 ## Note on AI tools
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
+We used AI (Grok) to help me understand the lessons better. I asked it to explain the codes in the Google Colab notebooks in simpler words so I could follow what each part was doing.
 
 
 ## References
