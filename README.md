@@ -86,6 +86,19 @@ The Z-score of 100 is approximately 2.61501265, which is within the ±3 cutoff. 
 
 #### CHAPTER 7: FEATURE SELECTION
 
+MISTAKE:
+
+The main issue is that five-fold cross-validation creates validation folds with fewer than two samples, making the R^2
+ score undefined. Reducing the number of folds or using a suitable scoring metric can help address the issue.
+
+ORIGINAL CODE:
+<img width="1565" height="262" alt="Screenshot 2026-10-09 145600" src="https://github.com/user-attachments/assets/69eef75a-1aae-4b03-bd24-7654402874a4" />
+
+
+CORRECT VERSION:
+<img width="937" height="362" alt="Screenshot 2026-10-09 152742" src="https://github.com/user-attachments/assets/bb043a0c-e529-41cc-80bf-7fb27ce0cdab" />
+
+
 ## Note on AI tools
 
 Say whether you used an AI tool, and what for. This is not a penalty.
