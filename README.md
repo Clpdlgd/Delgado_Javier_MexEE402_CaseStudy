@@ -60,6 +60,17 @@ This chapter “Real-World Application: Data Preprocessing” taught me how to a
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
+# MISTAKES FOUND AND THE CORRECT VERSION
+CHAPTER 1_2_3: DATA IMPUTATION
+
+ORIGINAL CODE:
+<img width="1738" height="266" alt="Screenshot 2026-10-09 134745" src="https://github.com/user-attachments/assets/bbe8a9b5-6ee9-498c-b7db-723f74943485" />
+
+
+CORRECT VERSION:
+
+
+
 ## Note on AI tools
 
 Say whether you used an AI tool, and what for. This is not a penalty.
