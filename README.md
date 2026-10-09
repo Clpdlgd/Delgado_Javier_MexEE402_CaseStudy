@@ -60,8 +60,8 @@ This chapter “Real-World Application: Data Preprocessing” taught me how to a
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
-#### MISTAKES FOUND AND THE CORRECT VERSION
-CHAPTER 1_2_3: DATA IMPUTATION
+
+#### CHAPTER 1_2_3: DATA IMPUTATION
 
 MISTAKE: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
 The behavior will change in pandas 3.0. 
@@ -74,7 +74,16 @@ CORRECT VERSION:
 
 <img width="677" height="67" alt="Screenshot 2026-10-09 141909" src="https://github.com/user-attachments/assets/68da9e12-263e-4758-93a1-1a5598a16329" />
 
-CHAPTER 6
+
+#### CHAPTER 6: DEALING WITH OUTLIERS
+MISTAKE:
+
+The original notebook states that 100 is a clear outlier using the Z-score method.
+
+CORRECT VERSION:
+
+The Z-score of 100 is approximately 2.61501265, which is within the ±3 cutoff. Therefore, 100 is not classified as an outlier using the Z-score method. However, the IQR method identifies 100 as an outlier. This shows that the classification depends on the method used.
+
 
 
 ## Note on AI tools
