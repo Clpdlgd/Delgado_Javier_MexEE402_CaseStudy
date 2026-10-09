@@ -57,9 +57,6 @@ This chapter “Real-World Application: Data Preprocessing” taught me how to a
 
 ## Errors we found
 
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
-
 
 #### CHAPTER 1_2_3: DATA IMPUTATION
 
