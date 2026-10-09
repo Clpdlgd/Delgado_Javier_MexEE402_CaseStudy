@@ -63,11 +63,16 @@ There are real ones in there. Finding them earns points.
 # MISTAKES FOUND AND THE CORRECT VERSION
 CHAPTER 1_2_3: DATA IMPUTATION
 
+MISTAKE: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. 
+
 ORIGINAL CODE:
 <img width="1738" height="266" alt="Screenshot 2026-10-09 134745" src="https://github.com/user-attachments/assets/bbe8a9b5-6ee9-498c-b7db-723f74943485" />
 
 
 CORRECT VERSION:
+<img width="677" height="67" alt="Screenshot 2026-10-09 141909" src="https://github.com/user-attachments/assets/68da9e12-263e-4758-93a1-1a5598a16329" />
+
 
 
 
