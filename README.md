@@ -65,9 +65,6 @@ There are real ones in there. Finding them earns points.
 Say whether you used an AI tool, and what for. This is not a penalty.
 Hiding it is.
 
-We used AI because we are not familiar with some concepts and Python codes in data preprocessing. For example, I needed help understanding how the Z-score and IQR methods identify outliers, how correlation measures the relationship between variables, and how a preprocessing pipeline combines multiple steps. Through AI, we are able to understand what unfamiliar code does, why it is used, and how it helps prepare data for machine learning.
-
-In addition, Since we mainly copied and pasted the code into Google Colab, AI helped me understand what the code was supposed to do, such as filling in missing passenger ages, detecting outliers, converting categorical data into numerical values, and grouping ages into categories.
 
 ## References
 
