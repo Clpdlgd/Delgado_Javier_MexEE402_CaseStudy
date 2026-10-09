@@ -73,9 +73,7 @@ CORRECT VERSION:
 
 
 #### CHAPTER 6: DEALING WITH OUTLIERS
-MISTAKE:
-
-The original notebook states that 100 is a clear outlier using the Z-score method.
+MISTAKE:The original notebook states that 100 is a clear outlier using the Z-score method.
 
 CORRECT VERSION:
 
@@ -83,10 +81,8 @@ The Z-score of 100 is approximately 2.61501265, which is within the ±3 cutoff. 
 
 #### CHAPTER 7: FEATURE SELECTION
 
-MISTAKE:
-
-The main issue is that five-fold cross-validation creates validation folds with fewer than two samples, making the R^2
- score undefined. Reducing the number of folds or using a suitable scoring metric can help address the issue.
+MISTAKE:The main issue is that five-fold cross-validation creates validation folds with fewer than two samples, making the R^2
+score undefined. Reducing the number of folds or using a suitable scoring metric can help address the issue.
 
 ORIGINAL CODE:
 <img width="1565" height="262" alt="Screenshot 2026-10-09 145600" src="https://github.com/user-attachments/assets/69eef75a-1aae-4b03-bd24-7654402874a4" />
