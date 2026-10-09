@@ -84,7 +84,7 @@ CORRECT VERSION:
 
 The Z-score of 100 is approximately 2.61501265, which is within the ±3 cutoff. Therefore, 100 is not classified as an outlier using the Z-score method. However, the IQR method identifies 100 as an outlier. This shows that the classification depends on the method used.
 
-
+#### CHAPTER 7: FEATURE SELECTION
 
 ## Note on AI tools
 
