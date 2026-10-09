@@ -60,7 +60,7 @@ This chapter “Real-World Application: Data Preprocessing” taught me how to a
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
-# MISTAKES FOUND AND THE CORRECT VERSION
+#### MISTAKES FOUND AND THE CORRECT VERSION
 CHAPTER 1_2_3: DATA IMPUTATION
 
 MISTAKE: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
@@ -71,9 +71,10 @@ ORIGINAL CODE:
 
 
 CORRECT VERSION:
+
 <img width="677" height="67" alt="Screenshot 2026-10-09 141909" src="https://github.com/user-attachments/assets/68da9e12-263e-4758-93a1-1a5598a16329" />
 
-
+CHAPTER 6
 
 
 ## Note on AI tools
